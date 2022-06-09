@@ -1,6 +1,6 @@
-# Collegeville 2022 Home
+# Collegeville 2023 Home
 
-![](assets/Collegeville22WorkshopBanner.jpg)
+![](assets/Collegeville23WorkshopBanner.jpg)
 
 ### Details
 - [**About**](About.md)
@@ -18,12 +18,13 @@
 - [**Attendees**](Attendees.md)
 
 - [**Agenda Overview**](Agenda.md) -- TBD
-  - [**Tuesday, July 26 Detailed Agenda**](Agenda-Day-1.md)
-  - [**Wednesday, July 27 Detailed Agenda**](Agenda-Day-2.md)
-  - [**Thursday, July 28 Detailed Agenda**](Agenda-Day-3.md)
+  - [**Monday, July 24 Detailed Agenda**](Agenda-Day-0.md)
+  - [**Tuesday, July 25 Detailed Agenda**](Agenda-Day-1.md)
+  - [**Wednesday, July 26 Detailed Agenda**](Agenda-Day-2.md)
+  - [**Thursday, July 27 Detailed Agenda**](Agenda-Day-3.md)
 
 
-- [**Sign up for Collegeville 2022!**](Registration2022.md)
+- [**Sign up for Collegeville 2023!**](Registration2023.md)
 
 - [**Collegeville Workshop Series**](https://collegeville.github.io/Workshops/)
 

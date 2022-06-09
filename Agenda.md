@@ -3,7 +3,7 @@
 
 [**Zoom Registration Information**]()
 
-| **Time (US CDT)**| **July 25** <br> [**Get Details**](Agenda-Day-0.md) | **July 26** <br> [**Get Details**](Agenda-Day-1.md) | **July 27** <br> [**Get Details**](Agenda-Day-2.md) | **July 28** <br> [**Get Details**](Agenda-Day-3.md) |
+| **Time (US CDT)**| **July 24** <br> [**Get Details**](Agenda-Day-0.md) | **July 25** <br> [**Get Details**](Agenda-Day-1.md) | **July 26** <br> [**Get Details**](Agenda-Day-2.md) | **July 27** <br> [**Get Details**](Agenda-Day-3.md) |
 |---|---|---|---|---|
 | 7:00-8:30 am | | Breakfast | Breakfast | Breakfast |
 | 8:45 am  | | Opening Remarks | | |

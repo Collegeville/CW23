@@ -1,9 +1,9 @@
 
-## 2021 Collegeville Workshop Agenda, Thursday, July 28, 2022
+## 2023 Collegeville Workshop Agenda, Thursday, July 27, 2022
 
 [**Zoom Registration Information**]()
 
-| **Time (US CDT)**| **July 28** |
+| **Time (US CDT)**| **July 27** |
 |---|---|
 | 10:00 am  | **Panel 3: Cultural Approaches to Improved Software Design** <br> **Panelists:** *Moderator:**  |
 | 11:30 am | **Break & Slack Discussions** |

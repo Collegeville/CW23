@@ -1,9 +1,9 @@
 
-## 2022 Collegeville Workshop Agenda, Tuesday, July 25, 2022
+## 2023 Collegeville Workshop Agenda, Monday, July 24, 2023
 
 [**Zoom Registration Information**]()
 
-| **Time (US CDT)**| **July 25** |
+| **Time (US CDT)**| **July 24** |
 |---|---|
 | 7:00 pm | [**Opening Reception**]() |
 

@@ -1,4 +1,4 @@
-# 2021 Collegeville Workshop on Scientific Software Attendees
+# 2023 Collegeville Workshop on Scientific Software Attendees
 
 ![](assets/AttendeesFormal.png)
 ![](assets/AttendeesInformal.png)

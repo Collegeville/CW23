@@ -1,9 +1,9 @@
 
-## 2022 Collegeville Workshop Agenda, Tuesday, July 26, 2022
+## 2023 Collegeville Workshop Agenda, Tuesday, July 26, 2022
 
 [**Zoom Registration Information**]()
 
-| **Time (US CDT)**| **July 26** |
+| **Time (US CDT)**| **July 25** |
 |---|---|
 | 9:45 am  | **Opening Remarks** |
 | 10:00 am | **Panel 1: Software Design Experiences & Challenges** <br> **Panelists:** <br> **Moderator:**  |

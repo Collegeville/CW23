@@ -1,14 +1,14 @@
-## Collegeville 2022 Onsite Reservations
+## Collegeville 2023 Onsite Reservations
 
 ### For all attendees (onsite and virtual)
 
-Go to the [Registration Page](Registration2022.md) to register.
+Go to the [Registration Page](Registration2023.md) to register.
 
 ### In-person Attendees only
 
 We have a single form for in-person workshop registration and (optional) on-campus housing reservations.  The workshop registration fee is $150. The fee covers facility and media fees and morning and afternoon snacks.  Meals are at the university cafeteria and paid for separately. Housing options are described below.
 
-Please register by June 21, 2022. [**Registration Form**]()
+Please register by June 21, 2023. [**Registration Form**]()
 
 #### Cancellation
 

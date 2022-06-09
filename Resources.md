@@ -1,6 +1,6 @@
 ## Workshop Resources
 
-- [Collegeville 2022 Workshop YouTube Playlist]()
+- [Collegeville 2023 Workshop YouTube Playlist]()
 - [Whitepapers](WorkshopResources/WhitePapers/WhitePaperList.md)
 - [Recordings](WorkshopResources/Recordings/RecordingList.md)
 - [Posters](WorkshopResources/Posters/PosterList.md)
