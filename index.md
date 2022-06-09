@@ -6,6 +6,8 @@
 - [**About**](About.md)
 - [**Background**](Background.md)
 - [**Workshop Goals and Format**](GoalsFormat.md)
+- [**Sign up for Collegeville 2023!**](Registration2023.md)
+
 
 - [**Resources**](Resources.md)
   - [**Recordings**](WorkshopResources/Recordings/RecordingList.md)
@@ -24,7 +26,6 @@
   - [**Thursday, July 27 Detailed Agenda**](Agenda-Day-3.md)
 
 
-- [**Sign up for Collegeville 2023!**](Registration2023.md)
 
 - [**Collegeville Workshop Series**](https://collegeville.github.io/Workshops/)
 
