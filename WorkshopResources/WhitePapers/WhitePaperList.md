@@ -1,4 +1,4 @@
-# 2022 Collegeville Workshop on Scientific Software Whitepapers
+# 2023 Collegeville Workshop on Scientific Software Whitepapers
 
 To edit this page, make a pull request for the [page source on GitHub](https://github.com/Collegeville/CW22/blob/master/WorkshopResources/WhitePapers/WhitePaperList.md).  
 
@@ -12,7 +12,8 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 ## List of papers:
 
 1. Sochat, Vanessa: [Ten Suggested Practices for Software Design](https://zenodo.org/record/6577797)
-1. Munson, Todd: [Software Design and the PATH Preprocessor](https://zenodo.org/record/7062329)
-1. [Lastname, Firstname: Paper Title](URL-of-DOI)
+2. Munson, Todd: [Software Design and the PATH Preprocessor](https://zenodo.org/record/7062329)
+3. [Gates, Jason: Using GitLab Issues for Iterative, Asynchronous Software Design](https://zenodo.org/record/7250115)
+4. [Lastname, Firstname: Paper Title](URL-of-DOI)
 
 #### [Back to Main Page](../../index.md)
