@@ -4,4 +4,6 @@
 
 **Due to continued logistics and staffing challenges, the 2023 Collegeville workshop will not be held.  We are considering possible approaches for future meetings and apologize for not hosting this event.**
 
+See the [Collegeville Workshops page](https://collegeville.github.io/workshops/) for the full series.
+
 - Contact: [Mike Heroux](https://maherou.github.io)
